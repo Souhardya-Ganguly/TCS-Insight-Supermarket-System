@@ -10,11 +10,11 @@ There should be 2 types of user level:  Administrator and Salesperson.
 
 The inventory module should consist of the following fields :
 
-Product Number
-Product Name
-Product Type [Grocery/Dairy/Cosmetics]
-Price
-Quantity
+1) Product Number
+2) Product Name
+3) Product Type [Grocery/Dairy/Cosmetics]
+4) Price
+5) Quantity
  
 
  
@@ -27,12 +27,12 @@ Search on Product Number/Product Name
 
 The Sales module should consist of
 
-Date
-Product Number
-Product Name
-Quantity
-Price
-Total Cost
+1) Date
+2) Product Number
+3) Product Name
+4) Quantity
+5) Price
+6) Total Cost
  
 
 This module is accessible by Administrator and Salesperson.
