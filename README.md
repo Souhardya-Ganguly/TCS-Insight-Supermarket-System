@@ -54,3 +54,7 @@ At the end of the day:-
 ->The sum of quantities of a particular product in the sales module should be tallied with the Inventory module and report should be generated on the current stock of products.
 ->The total cost in the sales module should be tallied with sum of the prices of individual products sold.
 
+
+
+Project contributors:- <br>
+-> Shubhrima Jana (https://github.com/Shubhrima)
