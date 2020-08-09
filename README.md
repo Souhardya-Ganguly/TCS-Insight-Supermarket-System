@@ -39,16 +39,18 @@ This module is accessible by Administrator and Salesperson.
 
 The Administrator should be able to
 
-Create, Modify and Delete entries
+->Create entries 
+->Modify entries
+->Delete entries
  
 
 The salesperson should be able to
 
-Create, Modify entries
+->Create entries 
+->Modify entries
  
+At the end of the day:-
 
-At the end of the day ,
-
-The sum of quantities of a particular product in the sales module should be tallied with the Inventory module and report should be generated on the current stock of products.
-The total cost in the sales module should be tallied with sum of the prices of individual products sold.
+->The sum of quantities of a particular product in the sales module should be tallied with the Inventory module and report should be generated on the current stock of products.
+->The total cost in the sales module should be tallied with sum of the prices of individual products sold.
 
