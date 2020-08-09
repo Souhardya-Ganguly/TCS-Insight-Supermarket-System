@@ -39,15 +39,15 @@ This module is accessible by Administrator and Salesperson.
 
 The Administrator should be able to
 
-->Create entries 
-->Modify entries
-->Delete entries
+->Create entries <br>
+->Modify entries <br>
+->Delete entries <br>
  
 
 The salesperson should be able to
 
-->Create entries 
-->Modify entries
+->Create entries <br> 
+->Modify entries <br>
  
 At the end of the day:-
 
